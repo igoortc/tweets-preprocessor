@@ -1,5 +1,4 @@
-# pre-processador-tweets
-Tweets preprocessor
+# Tweets preprocessor
 
 Author: Igor Tannus Correa
 
