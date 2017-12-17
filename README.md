@@ -1,6 +1,6 @@
 # Tweets preprocessor
 
-Author: Igor Tannus Correa
+**Author: Igor Tannus Correa**
 
 This is a Java algorithm that executes several steps of pre-processing in a database. At first, it was written as a tweet's pre-processor, but it can be adapted to other types of data. 
 
