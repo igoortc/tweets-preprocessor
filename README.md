@@ -39,6 +39,6 @@ You can write new steps according to what you need or comment/delete the methods
 
 This algorithm is part of the paper that I wrote, "Sentiment analysis of tweets related to the movies nominated for the 2017 Academy Awards".
 
-You can [read it](https://igoortc.github.io/research) (in Portuguese) and understand how I used this tool in my paper.
+You can [read it](https://igoortc.github.io/research) (in Portuguese or English) and understand how I used this tool in my paper.
 
 **If you use this tool, please cite the paper :stuck_out_tongue:**
